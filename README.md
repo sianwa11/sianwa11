@@ -1,15 +1,19 @@
 ### Sianwa Atemi
 
-Software Engineer specializing in scalable backend systems and full-stack development. With 5+ years of production experience, I architect and build high-performance applications that serve millions of users across distributed systems.
+5+ years building and operating production systems across fintech, social platforms, and humanitarian tech. I specialise in backend architecture, event-driven microservices, and LLM-powered applications , with a track record of owning the full engineering lifecycle solo in high-stakes environments.
 
-#### Technical Focus
-- Backend development with **Go**, **PHP**, and **TypeScript**
-- Event-driven architectures and microservices at scale
-- Domain-driven design and clean architecture principles
-- Building systems that prioritize reliability, performance, and maintainability
+#### What I work with
+- **Languages:** Python, TypeScript, Go, PHP, JavaScript
+- **Frontend:** React, Next.js
+- **Backend & Architecture:** Microservices, REST APIs, event-driven systems, serverless
+- **AI/LLM:** OpenAI API, LangChain, RAG architectures, Claude Code
+- **Cloud & DevOps:** AWS (Lambda, S3, EC2, RDS, SQS), Docker, Kubernetes, GitHub Actions
 
-I've led architectural transformations from monolithic systems to modular microservices, implemented CI/CD pipelines that reduced deployment cycles by 60%, and designed database schemas optimized for high-traffic applications. Currently focused on deepening expertise in distributed systems, concurrent programming patterns, and cloud-native architectures.
+#### What I've shipped
+- Scaled a social platform for refugee communities from 60 → 500 users, sole engineer.
+- Migrated a monolithic PHP backend to a microservice architecture with zero downtime.
+- Built real-time event pipelines processing millions of events daily at Cohere.
 
-Always exploring emerging technologies and engineering best practices. Open to discussing system design, architectural trade-offs, and engineering leadership.
+Currently open to senior engineering roles and interesting freelance projects.
 
-[LinkedIn](https://www.linkedin.com/in/sianwa-atemi) | [Portfolio](https://sianwa.dev)
+[Portfolio](https://sianwaatemi.com) · [LinkedIn](https://www.linkedin.com/in/sianwa-atemi)
