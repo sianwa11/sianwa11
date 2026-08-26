@@ -1,19 +1,25 @@
-### Sianwa Atemi
+# Sianwa Atemi
 
-5+ years building and operating production systems across fintech, social platforms, and humanitarian tech. I specialise in backend architecture, event-driven microservices, and LLM-powered applications , with a track record of owning the full engineering lifecycle solo in high-stakes environments.
+Software Engineer with 5+ years of experience building production systems across humanitarian tech, fintech, and social platforms. Interested in backend architecture, distributed systems, and systems-level engineering.
 
-#### What I work with
-- **Languages:** Python, TypeScript, Go, PHP, JavaScript
-- **Frontend:** React, Next.js
-- **Backend & Architecture:** Microservices, REST APIs, event-driven systems, serverless
-- **AI/LLM:** OpenAI API, LangChain, RAG architectures, Claude Code
-- **Cloud & DevOps:** AWS (Lambda, S3, EC2, RDS, SQS), Docker, Kubernetes, GitHub Actions
+## What I Work With
 
-#### What I've shipped
-- Scaled a social platform for refugee communities from 60 → 500 users, sole engineer.
-- Migrated a monolithic PHP backend to a microservice architecture with zero downtime.
-- Built real-time event pipelines processing millions of events daily at Cohere.
+* **Languages:** PHP, TypeScript, JavaScript, Python, Go
+* **Backend:** REST APIs, Microservices, Event-Driven Systems
+* **Frontend:** React, Next.js
+* **Databases:** PostgreSQL, MySQL
+* **Cloud & DevOps:** AWS, Docker, GitHub Actions
 
-Currently open to senior engineering roles and interesting freelance projects.
+## What I've Built
 
-[Portfolio](https://sianwaatemi.com) · [LinkedIn](https://www.linkedin.com/in/sianwa-atemi)
+* Scaled a social platform from **60 → 500 users** as the sole engineer.
+* Processed **£50K+ in donations** through Stripe integrations.
+* Built production APIs and backend systems used across multiple countries.
+* Currently building a **Shazam clone in Go**, implementing audio processing, DFT/FFT and audio fingerprinting from first principles.
+* Built a **course recommendation engine** using explainable ranking and behavioural signals.
+
+## Currently Exploring
+
+**Systems programming · Distributed systems · Audio/DSP · Go · Backend architecture**
+
+[Portfolio](https://sianwaatemi.com/) · [LinkedIn](https://www.linkedin.com/in/sianwa-atemi)
